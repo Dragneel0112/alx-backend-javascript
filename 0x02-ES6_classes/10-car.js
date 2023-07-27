@@ -5,16 +5,7 @@ export default class Car {
     this.color = color;
   }
 
-  /**
-   * @param {String} brand - Brand of vehicle
-   * @param {String} motor - Type of motor
-   * @param {String} color - Color of vehicle
-   */
-
   set brand(brand) {
-    if (typeof brand !== 'string') {
-      throw new TypeError('brand must be a string');
-    }
     this._brand = brand;
   }
 
@@ -23,9 +14,6 @@ export default class Car {
   }
 
   set motor(motor) {
-    if (typeof motor !== 'string') {
-      throw new TypeError('motor must be a string');
-    }
     this._motor = motor;
   }
 
@@ -34,9 +22,6 @@ export default class Car {
   }
 
   set color(color) {
-    if (typeof color !== 'string') {
-      throw new TypeError('color must be a string');
-    }
     this._color = color;
   }
 
