@@ -12,8 +12,8 @@
 
 | Tasks | Description | Files |
 | ----- | ----- | ----- |
-| <ul><li> - [ ] Task 0 </li></ul> | 0. Creating an interface for a student | [task_0/js/main.ts](task_0/js/main.ts), [task_0/package.json](task_0/package.json), [task_0/.eslintrc.js](task_0/.eslintrc.js), [task_0/tsconfig.json](task_0/tsconfig.json), [task_0/webpack.config.js](task_0/webpack.config.js) |
-| <ul><li> - [ ] Task 1 </li></ul> | 1. Let's build a Teacher interface | [task_1/js/main.ts](task_1/js/main.ts), [task_1/webpack.config.js](task_1/webpack.config.js), [task_1/tsconfig.json](task_1/tsconfig.json), [task_1/package.json](task_1/package.json) |
+| <ul><li> - [x] Task 0 </li></ul> | 0. Creating an interface for a student | [task_0/js/main.ts](task_0/js/main.ts), [task_0/package.json](task_0/package.json), [task_0/.eslintrc.js](task_0/.eslintrc.js), [task_0/tsconfig.json](task_0/tsconfig.json), [task_0/webpack.config.js](task_0/webpack.config.js) |
+| <ul><li> - [x] Task 1 </li></ul> | 1. Let's build a Teacher interface | [task_1/js/main.ts](task_1/js/main.ts), [task_1/webpack.config.js](task_1/webpack.config.js), [task_1/tsconfig.json](task_1/tsconfig.json), [task_1/package.json](task_1/package.json) |
 | <ul><li> - [ ] Task 2 </li></ul> | 2. Extending the Teacher class | [task_1/js/main.ts](task_1/js/main.ts) |
 | <ul><li> - [ ] Task 3 </li></ul> | 3. Printing teachers | [task_1/js/main.ts](task_1/js/main.ts) |
 | <ul><li> - [ ] Task 4 </li></ul> | 4. Writing a class | [task_1/js/main.ts](task_1/js/main.ts) |
